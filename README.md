@@ -31,8 +31,4 @@
 
 ---
 
-## 🚀 Instalación y ejecución
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/BatSignalApp.git
